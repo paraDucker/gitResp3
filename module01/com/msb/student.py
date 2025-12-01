@@ -7,3 +7,6 @@ class Student:
 
     def test(self,name):
         print("%s在考试"%self.name)
+
+    def gitStudy(self):
+        pass
