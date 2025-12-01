@@ -13,3 +13,6 @@ class Student:
 
     def study(self):
         pass
+
+    def eat(self):
+        pass
