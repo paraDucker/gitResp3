@@ -10,3 +10,6 @@ class Student:
 
     def gitStudy(self):
         pass
+
+    def study(self):
+        pass
