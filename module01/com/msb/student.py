@@ -4,3 +4,6 @@ class Student:
     def __init__(self,name,age):
         self.name = name
         self.age = age
+
+    def test(self,name):
+        print("%s在考试"%self.name)
